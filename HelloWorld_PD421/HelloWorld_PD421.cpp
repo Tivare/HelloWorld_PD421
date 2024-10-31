@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
 	cout << 12 << " + " << 23 << " = " << sum(12, 23) << endl;
+	cout << "End of program" << endl;
 }
